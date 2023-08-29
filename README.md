@@ -1,1 +1,1 @@
-
+HeroQuest is a 2D platformer with a complete map, music/sounds, animations, and advanced movement mechanics (double jumping and wall jumping). Navigate your way through the castle defeating enemies, dodging traps, and completing puzzles to find the final boss and defeat him!
